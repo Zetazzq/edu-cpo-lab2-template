@@ -1,4 +1,4 @@
-# Liquid - Lab1 - Variant 4
+# Liquid - Lab2 - Variant 4
 
 ## group name and group member
 
