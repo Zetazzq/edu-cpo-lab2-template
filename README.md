@@ -29,7 +29,7 @@ Zuo Ziqian Completed the MyHashSet_test.py
 
 ## Test result
 
-![Image](https://github.com/Zetazzq/edu-cpo-lab1-template/blob/main/MyHashSet_test.png)
+![Image](https://github.com/Zetazzq/edu-cpo-lab2-template/blob/main/MyHashSet_test.png)
 
 ## Changelog
 
