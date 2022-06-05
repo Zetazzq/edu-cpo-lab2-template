@@ -33,6 +33,8 @@ Zuo Ziqian Completed the MyHashSet_test.py
 
 ## Changelog
 
+- 05.06.2022 - 1
+  - Add To_str_function
 - 04.06.2022 - 1
   - Update README and the Python code style by Zuo and Zhou
 - 04.06.2022 - 0

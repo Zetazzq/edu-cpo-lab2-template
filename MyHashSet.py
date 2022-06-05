@@ -32,6 +32,16 @@ class MyHashSet(object):
         iter_list = self.toNodeList()
         return iter(iter_list)
 
+    def __str__(self):
+        lst = toList(self)
+        res = "{"
+        if len(lst) != 0:
+            res += str(lst[0])
+        for i in lst[1:]:
+            res += ", " + str(i)
+        res += "}"
+        return res
+
 
 def add(mySet: MyHashSet, value: int) -> None:
     key = value

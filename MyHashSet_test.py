@@ -34,6 +34,14 @@ class TestMyHashSetMethods(unittest.TestCase):
         b = cons(b, 3)
         self.assertEqual(a, b)
 
+    def test_str(self):
+        a = fromList([2, 3, 1])
+        b = fromList([1, 2, 3])
+        c = empty()
+        self.assertEqual(str(a), "{1, 2, 3}")
+        self.assertEqual(str(b), "{1, 2, 3}")
+        self.assertEqual(str(c), "{}")
+
     def test_size(self):
         a = empty()
         self.assertEqual(size(a), 0)
